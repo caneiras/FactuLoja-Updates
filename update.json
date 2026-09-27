@@ -1,12 +1,12 @@
 {
   "product": "FactuLoja",
   "channel": "stable",
-  "version": "1.1.3",
-  "filename": "FactuLoja_Setup_1.1.3_TESTE.exe",
-  "url": "https://github.com/caneiras/FactuLoja-Updates/releases/download/v1.1.3/FactuLoja_Setup_1.1.3_TESTE.exe",
-  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-  "notes": "TESTE DO SISTEMA DE ATUALIZAÇÕES. Serve apenas para confirmar a notificação de nova versão. NÃO INSTALAR.",
+  "version": "1.1.2",
+  "filename": "",
+  "url": "",
+  "sha256": "",
+  "notes": "Versão estável atual do FactuLoja.",
   "mandatory": false,
-  "published_at": "2026-09-27T14:49:17.854518Z",
-  "signature": "NUzAzQT+kFrae+qixG7HuplAI/C8wURTf4vvWV6XhRBssKnoyfqENeoDCH8PQw3QKU2hQ3Djlmu6aL52st0bCg=="
+  "published_at": "2026-09-27T15:07:01.364025Z",
+  "signature": "+GCyZEbWRkXpuGZRt5wkHnSnx6ewpd7hXrVZo7qkmnKk341UFSUq/V5QBmNxSFEdJsjm0m2FdhwOJtyS82TPCA=="
 }
